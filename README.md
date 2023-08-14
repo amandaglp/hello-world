@@ -1,2 +1,2 @@
 # hello-world
-hello world cubos academy
+primeira atividade do curso desenvolvimento de software back end
